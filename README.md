@@ -9,7 +9,7 @@ numpy==1.19.2<br>
 matplotlib==3.3.2<br>
 pandas==1.1.3<br>
 mtcnn==0.1.0<br>
-Pillow==8.0.0<b>
+Pillow==8.0.0<br>
 opencv-python==4.4.0.44<br>
 tensorflow==2.2.0<br>
 Keras==2.4.3<br>
